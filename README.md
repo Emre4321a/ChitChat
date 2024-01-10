@@ -49,7 +49,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Emre4321a/ChitChat/raw/main/ChitChat.rar">
-    <img src="https://github.com/Emre4321a/ChitChat/assets/147442880/1ee59c93-62bf-4ce1-8419-28ed4186a91e" width="500px" alt="Logo">
+    <img src="https://github.com/Emre4321a/ChitChat/assets/79405116/7319d89a-e713-415c-9dc8-73b6e104063c" width="500px" alt="Logo">
   </a>
 </p>
 
