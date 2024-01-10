@@ -1,39 +1,94 @@
-# ChitChat: Sohbetin Yeni Adresi
+# ChitChat: Sohbetin Yeni Adresi 🚀
 
-**ChitChat**, iletişimi eğlenceli, kolay ve etkili hale getiren yeni nesil bir mesajlaşma uygulamasıdır. <br/>
-**ChitChat** sayesinde arkadaşlarınızla, ailenizle veya meslektaşlarınızla anlık olarak iletişim kurarsınız.
+**ChitChat**, iletişimi eğlenceli, kolay ve etkili hale getiren yeni nesil bir mesajlaşma uygulamasıdır. **ChitChat** sayesinde arkadaşlarınızla, ailenizle veya meslektaşlarınızla anlık olarak iletişim kurabilirsiniz.
 
-# Nasıl Kullanılır ?
-- ChitChat ile kolayca bir kullanıcı hesabı oluşturabilir,
-- Profil bilgilerinizi düzenleyebilir,
+## Nasıl Kullanılır ? 📱
+
+- ChitChat ile kolayca bir kullanıcı hesabı oluşturabilirsiniz.
+- Profil bilgilerinizi düzenleyebilirsiniz.
 - Güvenlik ayarlarınızı yapabilirsiniz.
 - Üstelik parola koruması, iki faktörlü doğrulama gibi özellikler sayesinde hesabınızı güvende tutabilirsiniz.
 
-# ChitChat'de Neler Var ?
+## ChitChat'de Neler Var ? 🌟
 
-1. **Gizlilik**<br/>
-   - ChitChat, şifreleme ile kullanıcıların gizliliğini ve güvenliğini sağlar.<br/>
-   - Çevrim içi ve son görülme bilgini gizleyebilirsin.<br/>
+1. **Gizlilik** 🔒
+   - ChitChat, şifreleme ile kullanıcıların gizliliğini ve güvenliğini sağlar.
+   - Çevrim içi ve son görülme durumunu kontrol edebilirsiniz.
 
-2. **Arkadaşlık İlişkileri**
+2. **Arkadaşlık İlişkileri** 👫
    - Yeni insanlarla arkadaşlık ilişkisi kurabilirsiniz.
 
-3. **Dosya Gönderimi**
-   - Özel mesajları `Mesajlar` tablosu üzerinden yönetin.
-   - Gönderen ve alıcı kullanıcıları, mesaj türü, içerik gibi bilgileri içeren kayıtlar oluşturun.
+3. **Medya Gönderimi** 📎
+   - Fotoğraf, video, ses ve GİF gibi medyaları anında iletebilirsiniz.
+   - docx, pdf, pptx vb. uzantılı dosyaları iletebilirsiniz.
 
-5. **Grup Oluşturma:**
-   - Grupları `Gruplar` tablosu üzerinden oluşturun.
-   - Grup üyelerini `GrupUyeleri` tablosu ile ilişkilendirin.
+4. **Grup Sohbetleri** 💬
+   - Arkadaşlarınızla veya iş arkadaşlarınızla grup sohbetlerinde etkili iletişim kurabilirsiniz.
 
-6. **Grup İletişimi:**
-   - Grup içi iletişimi `GrupMesajlari` tablosu üzerinden yönetin.
-   - Grup ID, gönderen kullanıcı ID'si, mesaj türü gibi bilgileri içeren kayıtlar oluşturun.
+5. **Ayarlar** ⚙️
+   - Profil bilgilerinizi güncelleyebilirsiniz.
+   - Güvenlik ayarlarınızı değiştirebilirsiniz.
 
-7. **Ayarlar:**
-   - Kullanıcı özel ayarlarını `Ayarlar` tablosu üzerinden güncelleyin.
-   - Hakkında yazısı, görünürlük ayarları gibi kullanıcı tercihlerini saklayın.
+## İletişim Bilgileri 📧
 
-Bu veritabanı, sosyal medya uygulamaları veya iletişim platformları için güçlü bir temel sağlar. Her tablonun ve ilişkinin detaylı belgelendirmesine [Wiki](link) bölümünden ulaşabilirsiniz.
+### Emre İnan (Yazılım)
+- E-posta: emre4321a@gmail.com
+  
+### Muhammed Talha Yavuz (Grafik)
+- E-posta: mhtalhayavuz@gmail.com
+  
+### İlker Eraslan (Yazılım)
+- E-posta: ilkereraslan899@gmail.com
+  
+### Ömer Faruk Atçeken (Veri Tabanı)
+- E-posta: omerfarukatceken@gmail.com
 
-**Daha fazla yardım veya sorularınız mı var?** [İletişime geçin](link).
+# ChitChat: Sohbetin Yeni Adresi 🚀
+
+**ChitChat**, iletişimi eğlenceli, kolay ve etkili hale getiren yeni nesil bir mesajlaşma uygulamasıdır. **ChitChat** sayesinde arkadaşlarınızla, ailenizle veya meslektaşlarınızla anlık olarak iletişim kurabilirsiniz.
+
+## Nasıl Kullanılır ? 📱
+
+- ChitChat ile kolayca bir kullanıcı hesabı oluşturabilirsiniz.
+- Profil bilgilerinizi düzenleyebilirsiniz.
+- Güvenlik ayarlarınızı yapabilirsiniz.
+- Üstelik parola koruması, iki faktörlü doğrulama gibi özellikler sayesinde hesabınızı güvende tutabilirsiniz.
+
+## ChitChat'de Neler Var ? 🌟
+
+1. **Gizlilik** 🔒
+   - ChitChat, şifreleme ile kullanıcıların gizliliğini ve güvenliğini sağlar.
+   - Çevrim içi ve son görülme durumunu kontrol edebilirsiniz.
+
+2. **Arkadaşlık İlişkileri** 👫
+   - Yeni insanlarla arkadaşlık ilişkisi kurabilirsiniz.
+
+3. **Medya Gönderimi** 📎
+   - Fotoğraf, video, ses ve GİF gibi medyaları anında iletebilirsiniz.
+   - docx, pdf, pptx vb. uzantılı dosyaları iletebilirsiniz.
+
+4. **Grup Sohbetleri** 💬
+   - Arkadaşlarınızla veya iş arkadaşlarınızla grup sohbetlerinde etkili iletişim kurabilirsiniz.
+
+5. **Ayarlar** ⚙️
+   - Profil bilgilerinizi güncelleyebilirsiniz.
+   - Güvenlik ayarlarınızı değiştirebilirsiniz.
+
+## İletişim Bilgileri 📧
+
+### Emre İnan (Yazılım)
+- E-posta: emre4321a@gmail.com
+  
+### Muhammed Talha Yavuz (Grafik)
+- E-posta: mhtalhayavuz@gmail.com
+  
+### İlker Eraslan (Yazılım)
+- E-posta: ilkereraslan899@gmail.com
+  
+### Ömer Faruk Atçeken (Veri Tabanı)
+- E-posta: omerfarukatceken@gmail.com
+
+<p align="center">
+  <img src="https://github.com/Emre4321a/ChitChat/assets/147442880/e0ea0b50-090d-4fb5-b40a-faa48de0bd3f" width="500px"alt="Logo">
+</p>
+
