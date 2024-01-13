@@ -50,7 +50,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Emre4321a/ChitChat/raw/main/ChitChat.rar">
-    <img src="https://github.com/Emre4321a/ChitChat/assets/79405116/7319d89a-e713-415c-9dc8-73b6e104063c" width="500px" alt="Logo">
+    <img src="https://github.com/Emre4321a/ChitChat/assets/79405116/4922f43d-21f2-4e30-8fcf-311015aeccab" width="500px" alt="Logo">
   </a>
 </p>
 
