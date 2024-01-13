@@ -46,7 +46,7 @@
 
 <p align="center">
      <a href="https://github.com/Emre4321a/ChitChat/raw/main/ChitChat.rar">
-  <img src="https://github.com/Emre4321a/ChitChat/assets/79405116/09855a7c-bac4-470c-aae8-561adef7e67e" width="500px"alt="Logo">
+  <img src="https://github.com/Emre4321a/ChitChat/assets/79405116/09855a7c-bac4-470c-aae8-561adef7e67e" width="250px"alt="Logo">
   </a>
 </p>
 
