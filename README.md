@@ -45,13 +45,10 @@
 - E-posta: omerfarukatceken@gmail.com
 
 <p align="center">
+     <a href="https://github.com/Emre4321a/ChitChat/raw/main/ChitChat.rar">
   <img src="https://github.com/Emre4321a/ChitChat/assets/79405116/09855a7c-bac4-470c-aae8-561adef7e67e" width="500px"alt="Logo">
-
-</p>
-<p align="center">
-  <a href="https://github.com/Emre4321a/ChitChat/raw/main/ChitChat.rar">
-    <img src="https://github.com/Emre4321a/ChitChat/assets/79405116/4922f43d-21f2-4e30-8fcf-311015aeccab" width="500px" alt="Logo">
   </a>
 </p>
+
 
 
